@@ -1,11 +1,12 @@
 {
   "name": "the-shore-foundation-capstone",
+  "author": "John Carr <jxc9224@rit.edu>",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "lerna exec --parallel npm run start"
   },
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {
     "lerna": "^4.0.0",
     "nginx": "^1.0.6"
